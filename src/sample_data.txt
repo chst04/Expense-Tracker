@@ -1,0 +1,11 @@
+OrderID,Deadline,Profit,CustomerTier,Category
+ORD001,3,150.50,VIP,Electronics
+ORD002,1,85.00,Standard,Clothing
+ORD003,2,320.00,VIP,Electronics
+ORD004,1,45.50,Standard,Perishables
+ORD005,4,210.00,Standard,Home
+ORD006,2,95.00,VIP,Clothing
+ORD007,3,120.00,Standard,Electronics
+ORD008,2,55.00,Standard,Perishables
+ORD009,1,400.00,VIP,Electronics
+ORD010,4,30.00,Standard,Home
